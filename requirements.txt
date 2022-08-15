@@ -1,3 +1,4 @@
+libpq-dev
 requests
 numpy
 pandas
@@ -5,4 +6,4 @@ matplotlib
 streamlit
 plotly
 pillow
-psycopg2
+psycopg2-binary==2.9.3
