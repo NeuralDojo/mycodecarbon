@@ -195,7 +195,7 @@ fig_energy.update_layout(
 #GENERAL SETTINGS
 
 h1,h2 = st.columns([1,2])
-h1.image("img/logo_stm.jpeg",width=400)
+h1.image("img/ai_green1.png",width=400)
 h2.title("My Code Carbon Dashboard")
 h2.write("AI can benefit society in many ways but, given the energy needed \n"+
           "to support the computing behind AI, these benefits can come at a high environmental price.")
